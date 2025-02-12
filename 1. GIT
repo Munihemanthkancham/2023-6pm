@@ -97,6 +97,11 @@ FETCH: to show   : Github -- > Local  (git fetch)
 CLONE: To make a copy of other people repository. (Local) (git clone repo_url)
 FORK: To make a copy of other people repository.  (Github)
 REMOVE from origin: git remote remove origin
+git cherry-pick --abort
+git reset
+git add java1
+git commit -m "dev-1"
+
 
 GITHUB DANGERZONE OPTIONS:
 
