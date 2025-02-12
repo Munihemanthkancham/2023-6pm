@@ -96,6 +96,7 @@ PULL : taking		: Github -- > Local  (git pull origin master)
 FETCH: to show   : Github -- > Local  (git fetch)
 CLONE: To make a copy of other people repository. (Local) (git clone repo_url)
 FORK: To make a copy of other people repository.  (Github)
+REMOVE from origin: git remote remove origin
 
 GITHUB DANGERZONE OPTIONS:
 
