@@ -73,7 +73,7 @@ build -- > console output -- > green color
 cd /var/lib/jenkins/workspace/JOB-1
 
 Dahboard -- > job -- > condigure -- > Build step -- > Invoke top-level Maven targets
-mvn compile -- > save 
+mvn compile -- > save ...
 
 green   : success
 red     : failed
