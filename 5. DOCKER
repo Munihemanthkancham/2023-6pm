@@ -25,6 +25,9 @@ many users face problems that a particular code is running in the developer’s 
 It was initially released in March 2013, and developed by Solomon Hykes and Sebastian Pahl.
 Docker is a set of platform-as-a-service that use O.S level Virtualization, where as VM ware uses Hardware level Virtualization.
 Container have O.S files but its negligible in size compared to original files of that O.S.
+=====================
+how to open again container in docker
+docker exec -it hemanth1 /bin/bash
 
 
 COMPONENTS:
